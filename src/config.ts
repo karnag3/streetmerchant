@@ -244,6 +244,7 @@ const notifications = {
       4070: envOrArray(process.env.DISCORD_NOTIFY_GROUP_4070),
       '4070super': envOrArray(process.env.DISCORD_NOTIFY_GROUP_4070SUPER),
       '4070ti': envOrArray(process.env.DISCORD_NOTIFY_GROUP_4070TI),
+      4080: envOrArray(process.env.DISCORD_NOTIFY_GROUP_4080),
       '4080-16g': envOrArray(process.env.DISCORD_NOTIFY_GROUP_4080_16G),
       '4080super': envOrArray(process.env.DISCORD_NOTIFY_GROUP_4080SUPER),
       4090: envOrArray(process.env.DISCORD_NOTIFY_GROUP_4090),
