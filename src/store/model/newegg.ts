@@ -2137,6 +2137,47 @@ export const Newegg: Store = {
       url: 'https://www.newegg.com/p/N82E16814126776',
       itemNumber: '14-126-776',
     },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137852',
+      model: 'ventus 3x oc',
+      series: '4080super',
+      url: 'https://www.newegg.com/msi-rtx-4080-super-16g-ventus-3x-oc-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814137852',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932672',
+      model: 'windforce v2',
+      series: '4080super',
+      url: 'https://www.newegg.com/gigabyte-windforce-gv-n408swf3v2-16gd-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814932672',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137871',
+      model: 'expert',
+      series: '4080super',
+      url: 'https://www.newegg.com/msi-rtx-4080-super-16g-expert-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814137871',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126704',
+      model: 'proart',
+      series: '4080super',
+      url: 'https://www.newegg.com/asus-geforce-rtx-4080-super-proart-rtx4080s-o16g/p/N82E16814126704',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814150878',
+      model: 'merc310',
+      itemNumber: 'N82E16814150878',
+      series: 'rx7900xtx',
+      url: 'https://www.newegg.com/p/N82E16814150878',
+    },
   ],
   name: 'newegg',
   country: 'US',
